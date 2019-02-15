@@ -1,5 +1,5 @@
 token= NTM5ODA2MTQzNjIzNTkzOTg0.DzHtKw.nD7OywsXbAlt4Et8YpA4O0_iDsg
-owner= 290819338829824000 
+owner= 464276425847996437 
 prefix= 5
 game= Type 5help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
